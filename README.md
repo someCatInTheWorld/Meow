@@ -1,15 +1,13 @@
 # About us
-Created by Mariocraft987 and a team of developers, we have Bark.
-
-Bark Coding is a Blockly based coding language. &#128054;
+Meow Coding is a Blockly based coding language. &#128054;
 <hr>
 
-# Available Jobs
+<!-- # Available Jobs
 - Assets: 2/3<br/>
 - Programmers: 3/10<br/>
 - Contributers: 0/3<br/>
 ## Job Registering
-To be a part of Bark's devlopment, please comment `Job Register 4067` on <a href="https://github.com/Mariocraft987/bark.github.io/commit/5644df6ebc5aa7ea7b611141a265ff7c17712c5e">this commit</a>.
+To be a part of Bark's devlopment, please comment `Job Register 4067` on <a href="https://github.com/Mariocraft987/bark.github.io/commit/5644df6ebc5aa7ea7b611141a265ff7c17712c5e">this commit</a>. -->
 
 <hr>
 
@@ -19,6 +17,7 @@ To be a part of Bark's devlopment, please comment `Job Register 4067` on <a href
 BSD 2-Clause License
 
 Copyright (c) 2024, The Bark Team
+Copyright (c) 2024, The Meow Team
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
