@@ -1,8 +1,8 @@
 # About us
-Meow Coding is a Blockly based coding language. &#128054;
-<hr>
+Meow Coding is a Blockly based coding language. :cat:
+<!-- <hr>
 
-<!-- # Available Jobs
+# Available Jobs
 - Assets: 2/3<br/>
 - Programmers: 3/10<br/>
 - Contributers: 0/3<br/>
